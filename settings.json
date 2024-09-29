@@ -24,5 +24,11 @@
     "files.autoSave": "afterDelay",
     "vsicons.dontShowNewVersionMessage": true,
     "workbench.colorTheme": "Hack The Box-Lite",
-    "editor.minimap.autohide": true
+    "editor.minimap.autohide": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.mouseWheelZoom": true,
+    "editor.mouseWheelZoom": true
 }
